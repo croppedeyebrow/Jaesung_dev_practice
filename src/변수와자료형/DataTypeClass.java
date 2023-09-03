@@ -1,6 +1,6 @@
 package 변수와자료형;
 // 변수란? :  값을 저장 할 수 있는 메로리 공간에 이름을 붙이는 것
-//public class DataTypeClass {
+//
 //    public static void main(String[] args) {
 //        int age; // 정수형 변수 선언, 4바이트(32bit) 공간을 확보하고 초기값은 아직 없음.
 //        // 정수(소수점 이하가 없는) 값을 저장하는 목적, 21억까지 표현가능(양음수 모두 존재)
